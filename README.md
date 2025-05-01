@@ -93,4 +93,19 @@ The installation of the setup images and so on was done post which I run the BFS
 
 ## Assignments
 
+## Assignments 1 SQL
+This SQl data load tasks 
+- Worked on this project for close to a month started with postgres and sql setup.
+- Loaded large dataset 1-3 gb into postrges , manipulated the dataset , created tables and relations as given in the diagram.
+-created the queries to retrieve the data and queries based on information requested.
+
+## Assignment 2 Spatial Query
+- required the analysis of spatial relevent data for the query to identify the areas ,physical location that are closer to a given location based on the query provided.
+- used scala sparksql to implement the function that impletemnt 2 main queries for the implementation.
+
+## Assignments 3 Hot Spot Analysis & Hot cell analysis 
+- Hot zone analysis for yellow taxi driving analysis this was a interesting to do the analysis of hote zone and hot cell.
+-Implemented  the join function for hot zone analysis and hot cell for yellow taxi cab trips.
+-Used 1 day as the timestep for analysis implemented given fucntion for coordinates.
+
 A deep dive into the data analysis for Statistical inference , model building and data inference
