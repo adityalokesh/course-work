@@ -162,3 +162,12 @@ I Experimented with Lasso using L1 and L2 penalty , the model performed better w
 
 ## Year 2 
 
+## CSE 571 -  ARTIFICAL intelligence 
+Comprehensive Course on PDDL,MDP general Purpose AI.
+
+
+## EEE 598 - Deep Learning
+Deep learning Course on ML, models from Neural Networks to Diffusion , GANS, a comprehensive AI course.
+
+## CSE 572 - Data Mining
+A comprehensive course on finding data patterns ,improve data modellign effecieny by a algorithmic capacity.
