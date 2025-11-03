@@ -165,9 +165,47 @@ I Experimented with Lasso using L1 and L2 penalty , the model performed better w
 ## CSE 571 -  ARTIFICAL intelligence 
 Comprehensive Course on PDDL,MDP general Purpose AI.
 
+## Programming Assignement 1
+working on Pddl and domain completion and defenition of the model for cafe world and Book world.
+
+
 
 ## EEE 598 - Deep Learning
 Deep learning Course on ML, models from Neural Networks to Diffusion , GANS, a comprehensive AI course.
 
+## Assignement 1
+[Assignment-1](./EEE598-Deep-Learning-Assignment1.pdf)
+## sub part 1 cats vs dogs vs other
+Teachable machine with cats vs dogs vs other I uploaded  25k images per section to enable proper learning.
+The model did learning I also experimented with learning rate from 0.01, 0.05. The model takes 3 hrs to learn in total and was accuracte 95% of times images were shown for different categories.
+The teachable machine model that was trained
+https://teachablemachine.withgoogle.com/models/qxvH3LuZf/
+## subpart 2 Introduction to Sol and
+Sol is supercomputer Interface that we did learn to use for the upcoming leassons and projects and so on.This was easy the sol interface is easy to use and check.
+## Assignement 2
+## sub part 1 backpropogation 
+[Assignment-2](./EEE598-Deep-Learning-Assignment2.pdf)
+I completed the backpropogation excersice which was needed to be completed.I completed the excercise and ran to succesfulll get the model output.
+
+## sub part 2 -3 MLPs vs KAN and EffeceientNet-v2
+I created a simple KAN and read the paper https://github.com/KindXiaoming/pykan which explains the original idea. I built a simple KAN with size recommended on the github page which Itehn trained and compared to prebuilt and custom MLP to compare the performence of the models .
+
+The KAN being smaller was still as effecient as the MLP.I also loaded the Effeceient-v2 model as described.
+The EffecientNet-V2 used is model type b which I trained and reported results on. Then the model architecture was manipulated and a model close the original with 5-10% parameters change was obtained which was trained and compared again for effeciency.
+## Assignement 3
+[Assignment-3](./EEE598-Deep-Learning-Assignment3.pdf)
+## sub part 1
+Perceptrual loss , turulence loss etc all losses for the model was created for image and a turbluence immune loss was also created. The losses were then compared and justififed and its effects compared.
+The losses were l1 and l2 which was compared for the custom loss fucntions and all other losses.
+## sub part 2-3 VIt and ImageNet
+Image Net training and testing , the whole model was trained only for few epochs and the model was tested.
+
+## Labs 
+[Lab](./EEE-lab-work.zip)
+Lab work performed for this course.
 ## CSE 572 - Data Mining
 A comprehensive course on finding data patterns ,improve data modellign effecieny by a algorithmic capacity.
+
+Currently learning CUDA as well and Datacamp enthusiast so more updates to come !!! :)
+
+HIRE ME , BUT DON"T YOU DARE FIRE ME !!
